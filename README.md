@@ -8,6 +8,11 @@
 Admin Panel -> Agents -> Roles
 Supreme Admin
 
+📸 Screenshot:
+Terminal output showing the resolved IP addresses:
+<img width="1000" alt="image" src="https://github.com/DavidPatrick92/Wireshark_-_Network_Analysis/blob/main/images/nslookup.png">
+
+
 ### Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 Admin Panel -> Agents -> Departments
 SysAdmins
