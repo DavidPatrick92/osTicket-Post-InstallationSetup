@@ -10,7 +10,7 @@ Supreme Admin
 
 📸 Screenshot:
 Terminal output showing the resolved IP addresses:
-<img width="1000" alt="image" src="https://github.com/DavidPatrick92/Wireshark_-_Network_Analysis/blob/main/images/nslookup.png">
+<img width="1000" alt="image" src="images/Screenshot 2026-08-04 202333.png">
 
 
 ### Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
