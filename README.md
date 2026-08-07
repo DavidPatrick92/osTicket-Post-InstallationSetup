@@ -17,6 +17,11 @@ Output after creating "Supreme Admin" :
 Admin Panel -> Agents -> Departments
 SysAdmins
 
+📸 Screenshot:
+Output after creating "Supreme Admin" :
+<img width="700" alt="image" src="images/Screenshot 2026-08-04 203314.png">
+
+
 ### Configure Teams
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 Online Banking
