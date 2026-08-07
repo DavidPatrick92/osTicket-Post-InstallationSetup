@@ -1,6 +1,8 @@
 # osTicket-Post-InstallationSetup
 
-## Acknowledge Agent Panel vs Admin Panel
+## Project Overview
+
+### Acknowledge Agent Panel vs Admin Panel
 
 ### Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
