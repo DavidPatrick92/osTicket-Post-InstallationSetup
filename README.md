@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-### Acknowledge Agent Panel vs Admin Panel
+## Acknowledge Agent Panel vs Admin Panel
 
 ### Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
